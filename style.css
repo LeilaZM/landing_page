@@ -174,3 +174,48 @@ img.rounded-corners {
     font-weight: bold;
     margin-left: auto;
 }
+
+.call-section {
+    background-color: rgb(255, 255, 255);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.blue-container {
+    background-color: #3882f6;
+    padding: 30px 60px;
+    flex: 1;
+    border-radius: 5px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+.text-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.text-description {
+    font-size: smaller;
+}
+
+button.signup2 {
+    border: 1px solid white;
+    background-color: #3882f6;
+    padding: 4px 16px;
+    max-height: 30px;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
+    
+
+}
